@@ -27,6 +27,8 @@ Ready to embark on your tech journey with us? Joining the GitHub Campus Program 
 Follow us on GitHub and stay tuned for exciting updates, events, and opportunities. Together, we'll write the future of technology and leave our mark on the world!
 
 Happy coding! 🎉
-![TechHub](https://amritacampusamaravati-my.sharepoint.com/:i:/g/personal/techhub_av_amrita_edu/EVKimii7CN1LgZPXc4SxYIoBZ0ySpdjd_n5DdZMjZ_kzbA?e=ReXZnD)
+
+<img src="https://github.com/Amrita-Vishwa-Vidyapeetham-Amaravati/.github/blob/main/My%20first%20design%20(1).png" alt="TechHub" width="200">  
 **TechHub Team**  
+
 [Amrita Vishwa Vidyapeetham-Amaravati](https://github.com/Amrita-Vishwa-Vidyapeetham-Amaravati)
